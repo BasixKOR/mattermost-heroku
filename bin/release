@@ -4,4 +4,6 @@ cat << EOF
 ---
 addons:
   - heroku-postgresql:hobby-dev
+  - cloudcube:free
+  - sendgrid:starter
 EOF
