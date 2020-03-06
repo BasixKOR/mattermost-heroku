@@ -35,6 +35,15 @@
         "description": "The AWS region you selected when creating your S3 bucket. Refer to AWS Reference Documentation (http://docs.aws.amazon.com/general/latest/gr/rande.html#s3_region) and choose this variable from the Region column.",
         "required": false,
         "value": "us-east-1"
+    },
+    "EMAIL_SETTINGS__FEEDBACK_EMAIL": {
+        "description": "The email address used for notifications (disabled for default), verification (enabled) etc.",
+        "required": true
+    },
+    "SERVICE_SETTINGS__SITEURL": {
+        "description": "The URL of the Mattermost server you're gonna use. Type https://[name].herokuapp.com if you prefer to use default."
+        "required": true,
+        "value": "https://.herokuapp.com"
     }
   }
 }
