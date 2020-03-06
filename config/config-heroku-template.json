@@ -178,7 +178,7 @@
         "EnableSignInWithUsername": true,
         "SendEmailNotifications": ${EMAIL_SETTINGS__SEND_EMAIL_NOTIFICATIONS},
         "UseChannelInEmailNotifications": false,
-        "RequireEmailVerification": ${EMAIL_SETTINGS__REQUIRE_EMAIL_VERIFICATION},
+        "RequireEmailVerification": true,
         "FeedbackName": "${EMAIL_SETTINGS__FEEDBACK_NAME}",
         "FeedbackEmail": "${EMAIL_SETTINGS__FEEDBACK_EMAIL}",
         "ReplyToAddress": "${EMAIL_SETTINGS__FEEDBACK_EMAIL}",
