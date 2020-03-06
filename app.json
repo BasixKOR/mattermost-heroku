@@ -37,7 +37,7 @@
         "value": "us-east-1"
     },
     "EMAIL_SETTINGS__FEEDBACK_EMAIL": {
-        "description": "The email address used for notifications (disabled for default), verification (enabled) etc.",
+        "description": "The email address used for notifications, verification etc.",
         "required": true
     },
     "SERVICE_SETTINGS__SITEURL": {
