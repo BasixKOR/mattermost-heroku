@@ -49,7 +49,7 @@
         "WebsocketSecurePort": 443,
         "WebsocketPort": 80,
         "WebserverMode": "gzip",
-        "EnableCustomEmoji": false,
+        "EnableCustomEmoji": true,
         "EnableEmojiPicker": true,
         "EnableGifPicker": false,
         "GfycatApiKey": "2_KtH_W5",
