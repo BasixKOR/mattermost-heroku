@@ -41,7 +41,7 @@
         "required": true
     },
     "SERVICE_SETTINGS__SITEURL": {
-        "description": "The URL of the Mattermost server you're gonna use. Type https://[name].herokuapp.com if you prefer to use default."
+        "description": "The URL of the Mattermost server you're gonna use. Type https://[name].herokuapp.com if you prefer to use default.",
         "required": true,
         "value": "https://.herokuapp.com"
     }
